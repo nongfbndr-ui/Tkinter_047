@@ -71,3 +71,6 @@ tombol = tk.Button(
 )
 tombol.pack(pady=20)
 
+# Label hasil prediksi
+label_hasil = tk.Label(
+    
