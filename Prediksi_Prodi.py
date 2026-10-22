@@ -51,3 +51,10 @@ for i, nama_mapel in enumerate(mapel):
 
     input_nilai.append(entry)
 
+# Fungsi hasil prediksi
+def hasil_prediksi():
+    label_hasil.config(
+        text="Hasil Prediksi: Teknologi Informasi",
+        fg="green"
+    )
+
