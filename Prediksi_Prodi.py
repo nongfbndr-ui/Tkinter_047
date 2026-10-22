@@ -15,3 +15,7 @@ judul = tk.Label(
 )
 judul.pack(pady=20)
 
+# Frame untuk input nilai
+frame_input = tk.Frame(root)
+frame_input.pack(pady=10)
+
