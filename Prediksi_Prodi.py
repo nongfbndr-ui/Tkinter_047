@@ -19,3 +19,17 @@ judul.pack(pady=20)
 frame_input = tk.Frame(root)
 frame_input.pack(pady=10)
 
+# Daftar mata pelajaran
+mapel = [
+    "Matematika",
+    "Bahasa Indonesia",
+    "Bahasa Inggris",
+    "Informatika",
+    "Fisika",
+    "Kimia",
+    "Biologi",
+    "Ekonomi",
+    "Sejarah",
+    "Geografi"
+]
+
