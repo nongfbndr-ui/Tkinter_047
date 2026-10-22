@@ -71,3 +71,14 @@ tombol = tk.Button(
 )
 tombol.pack(pady=20)
 
+# Label hasil prediksi
+label_hasil = tk.Label(
+    root,
+    text="Hasil Prediksi: Belum tersedia",
+    font=("Arial", 12, "bold"),
+    fg="black"
+)
+label_hasil.pack(pady=10)
+
+# Menjalankan aplikasi
+root.mainloop()
