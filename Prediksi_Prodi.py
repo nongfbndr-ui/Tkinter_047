@@ -33,3 +33,6 @@ mapel = [
     "Geografi"
 ]
 
+# Membuat 10 input nilai
+input_nilai = []
+
