@@ -69,3 +69,5 @@ tombol = tk.Button(
     padx=20,
     pady=8
 )
+tombol.pack(pady=20)
+
